@@ -10,6 +10,7 @@ minus, equals, backspace, right/left bracket<br/>
 t, y , u, i, o,p<br/>
 s, d, f, g, h, j, k, l<br/>
 All do something different.<br/>
+f and g are the most interesting.<br/>
 <br/>
 To alter the resolution of the square wave change the range  value in the<br/>
 calc_fourier_series(heading):<br/>
